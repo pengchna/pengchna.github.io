@@ -1,22 +1,14 @@
----
-title: "Research"
-permalink: /research/
-author_profile: true
----
+## Research Areas
 
-## Research Interests
+### Neuromorphic Computing
+Energy-efficient hardware architectures inspired by biological neural systems.
 
-- Neuromorphic Computing
-- Memristor-based AI Hardware
-- In-memory Computing
-- Brain-inspired Computing Systems
+### Memristor Devices
+Emerging memory devices for analog computing and synaptic plasticity.
 
-## Research Overview
+### Computing-in-Memory
+Breaking the von Neumann bottleneck with in-memory matrix operations.
 
-My research focuses on developing high-efficiency neuromorphic computing architectures based on emerging memory devices such as memristors and ECRAM. The goal is to bridge device physics, circuit design, and brain-inspired algorithms to enable scalable intelligent systems.
+## Representative Work
 
-## Current Projects
-
-- Memristor-based computing-in-memory accelerator
-- Neuromorphic hardware for spiking neural networks
-- Device–algorithm co-design for energy-efficient AI
+See the **Publications** section for full paper list.
