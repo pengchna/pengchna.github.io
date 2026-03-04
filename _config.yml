@@ -13,9 +13,11 @@ title                    : "Pengch@ZJU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : pengchna.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      :"https://pengchna.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"  
+# 或者，如果您已经在 GitHub 上托管了其他页面，则使用“https://[您的 GitHub 用户名].github.io/[您的仓库名称]”。
+baseurl                  : "" # the subpath of your site, e.g. "/blog"  
+baseurl ： "" # 您的网站子路径，例如 "/blog"
 repository               : "pengchna/pengchna.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
